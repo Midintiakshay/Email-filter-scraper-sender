@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Windows
+desktop.ini
+
+# CSV files
+*.csv

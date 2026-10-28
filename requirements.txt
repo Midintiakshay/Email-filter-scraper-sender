@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+requests
+dnspython
+pydantic
+pydantic[email]
+python-dotenv
+psutil
+pypdf
